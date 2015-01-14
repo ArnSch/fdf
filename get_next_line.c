@@ -6,12 +6,12 @@
 /*   By: aschenk <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/11/14 16:35:11 by aschenk           #+#    #+#             */
-/*   Updated: 2014/12/31 16:13:52 by aschenk          ###   ########.fr       */
+/*   Updated: 2015/01/12 17:19:46 by aschenk          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "get_next_line.h"
-#include "includes/includes/libft.h"
+#include "libft/includes/libft.h"
 #include <stdlib.h>
 #include <unistd.h>
 
